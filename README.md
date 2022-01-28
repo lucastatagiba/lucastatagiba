@@ -8,6 +8,7 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastatagiba&show_icons=true&theme=dracula)
 
+https://www.codewars.com/users/LucasTatagiba/badges/large
 
 ## Tecnologias que eu uso no meu dia 
 
